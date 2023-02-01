@@ -1,2 +1,4 @@
 commit one (master)
 commit (alpha)
+commit two (new_branch)
+commit three (new_branch)
