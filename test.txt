@@ -1,1 +1,2 @@
 commit one (master)
+commit two (new_branch)
